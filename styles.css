@@ -1,0 +1,9 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .horizontalMenu1 {
+        font-size: 18px;
+        padding: 10px;
+    }
+    #column20 {
+        padding: 20px;
+    }
+}
